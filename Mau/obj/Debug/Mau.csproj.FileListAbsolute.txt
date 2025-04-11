@@ -1,0 +1,9 @@
+D:\NGAN BUI\NET\Mau\Mau\obj\Debug\Mau.csproj.AssemblyReference.cache
+D:\NGAN BUI\NET\Mau\Mau\obj\Debug\Mau.Properties.Resources.resources
+D:\NGAN BUI\NET\Mau\Mau\obj\Debug\Mau.csproj.GenerateResource.cache
+D:\NGAN BUI\NET\Mau\Mau\obj\Debug\Mau.csproj.CoreCompileInputs.cache
+D:\NGAN BUI\NET\Mau\Mau\bin\Debug\Mau.exe.config
+D:\NGAN BUI\NET\Mau\Mau\bin\Debug\Mau.exe
+D:\NGAN BUI\NET\Mau\Mau\bin\Debug\Mau.pdb
+D:\NGAN BUI\NET\Mau\Mau\obj\Debug\Mau.exe
+D:\NGAN BUI\NET\Mau\Mau\obj\Debug\Mau.pdb
